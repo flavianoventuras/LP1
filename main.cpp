@@ -2,7 +2,7 @@
 
 int main(){
 
-std::cout << "ola" << std::endl;
+std::cout << "ola mundo" << std::endl;
 
 	return 0;
 }
